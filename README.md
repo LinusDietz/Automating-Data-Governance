@@ -1,5 +1,18 @@
 # Supplementary Material for "Automating Data Governance with Generative AI"
 
+Accepted at AAAI/ACM AEIS 2025. In Press.
+
+```
+@InProceedings{Dietz2025Automating,
+  author    = {Linus W. Dietz and Arif Wider and Simon Harrer},
+  booktitle = {8th {AAAI/ACM} Conference on AI, Ethics, and Society},
+  title     = {Automating Data Governance with Generative {AI}},
+  year      = {2025},
+  publisher = {{AAAI/ACM}},
+  series    = {AIES'25},
+}
+```
+
 ## Base Data Maps
 
 The directory `datamaps` contains a folder with the `.yml` files for the base data maps of both domains.
