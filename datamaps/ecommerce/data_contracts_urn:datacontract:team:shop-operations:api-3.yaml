@@ -1,0 +1,23 @@
+dataContractSpecification: 1.1.0
+id: urn:datacontract:team:shop-operations:api-3
+info:
+  title: Payments api
+  version: 0.0.1
+  owner: shop-operations
+  contact:
+    name: u2gfJmIrx9VjIiUjzbyXO9R
+    email: mail@example.com
+models:
+  payment:
+    type: table
+    fields:
+      order:
+        type: string
+        description: order id
+      incoming:
+        type: decimal
+        description: customer payments
+      refunds:
+        type: decimal
+      tax payments:
+        type: decimal

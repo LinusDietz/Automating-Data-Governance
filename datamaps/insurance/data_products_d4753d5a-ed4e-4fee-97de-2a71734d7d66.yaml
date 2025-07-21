@@ -1,0 +1,23 @@
+dataProductSpecification: 0.0.1
+id: d4753d5a-ed4e-4fee-97de-2a71734d7d66
+info:
+  title: Actor
+  owner: actor
+  status: active
+inputPorts: []
+outputPorts:
+- id: api
+  name: api
+  type: api
+  status: active
+  autoApprove: false
+  containsPii: true
+  dataContractId: urn:datacontract:team:actor:api
+  tags: []
+  links: {}
+  custom: {}
+  assets: []
+tags: []
+links: {}
+custom: {}
+assets: []

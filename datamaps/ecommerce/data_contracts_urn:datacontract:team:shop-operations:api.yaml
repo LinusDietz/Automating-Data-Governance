@@ -1,0 +1,36 @@
+dataContractSpecification: 1.1.0
+id: urn:datacontract:team:shop-operations:api
+info:
+  title: Customers api
+  version: 0.0.1
+  owner: shop-operations
+  contact:
+    name: u2gfJmIrx9VjIiUjzbyXO9R
+    email: mail@example.com
+models:
+  customer:
+    type: table
+    fields:
+      name:
+        type: string
+        pii: true
+        classification: personal data
+      contact info:
+        type: string
+        description: e-mail address, phone number
+        pii: true
+        classification: personal data
+      shipping addresses:
+        type: string
+        pii: true
+        classification: personal data
+      activity:
+        type: string
+        description: registration date, order history, log-ins
+        pii: true
+        classification: personal data
+      payment methods:
+        type: string
+      data usage consent:
+        type: string
+        description: permission level

@@ -1,0 +1,22 @@
+dataProductSpecification: 0.0.1
+id: 69e6c9ad-4cd2-400f-941e-83aa5f9d6bd5
+info:
+  title: Payments
+  owner: shop-operations
+  archetype: source-aligned
+inputPorts: []
+outputPorts:
+- id: api
+  name: api
+  type: api
+  autoApprove: false
+  containsPii: false
+  dataContractId: urn:datacontract:team:shop-operations:api-3
+  tags: []
+  links: {}
+  custom: {}
+  assets: []
+tags: []
+links: {}
+custom: {}
+assets: []

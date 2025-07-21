@@ -1,0 +1,26 @@
+dataContractSpecification: 1.1.0
+id: urn:datacontract:team:logistics:api-1
+info:
+  title: Fulfilment api
+  version: 0.0.1
+  owner: logistics
+  contact:
+    name: u2gfJmIrx9VjIiUjzbyXO9R
+    email: mail@example.com
+models:
+  fulfilment:
+    type: table
+    fields:
+      package:
+        type: string
+        description: package id
+      KEP supplier:
+        type: string
+      order:
+        type: string
+        description: order id
+      product:
+        type: string
+        description: product id
+      number of pieces:
+        type: int

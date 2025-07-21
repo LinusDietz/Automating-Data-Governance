@@ -1,0 +1,9 @@
+id: actor
+name: actor
+type: Team
+members:
+- emailAddress: mail@example.com
+  role: Owner
+tags: []
+links: {}
+custom: {}

@@ -1,0 +1,31 @@
+dataContractSpecification: 1.1.0
+id: urn:datacontract:team:logistics:api
+info:
+  title: Products api
+  version: 0.0.1
+  owner: logistics
+  contact:
+    name: u2gfJmIrx9VjIiUjzbyXO9R
+    email: mail@example.com
+models:
+  product:
+    type: table
+    fields:
+      description:
+        type: string
+        description: name, brand
+      category info:
+        type: string
+      pricing info:
+        type: string
+        description: buying price, margin
+        pii: false
+        classification: trade secret
+      supplier info:
+        type: string
+      stock info:
+        type: string
+        description: stock level, warehouse
+      performance:
+        type: string
+        description: items sold, reviews, return rates

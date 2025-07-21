@@ -1,0 +1,22 @@
+dataProductSpecification: 0.0.1
+id: 6ec30106-d0d2-4157-a7e3-e00eb96201a5
+info:
+  title: Underwriting Life Insurance
+  owner: underwriting
+  archetype: 'null'
+inputPorts: []
+outputPorts:
+- id: api
+  name: api
+  type: api
+  autoApprove: false
+  containsPii: false
+  dataContractId: urn:datacontract:team:underwriting:api
+  tags: []
+  links: {}
+  custom: {}
+  assets: []
+tags: []
+links: {}
+custom: {}
+assets: []

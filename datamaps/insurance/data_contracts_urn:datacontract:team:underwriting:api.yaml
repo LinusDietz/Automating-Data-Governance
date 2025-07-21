@@ -1,0 +1,23 @@
+dataContractSpecification: 1.1.0
+id: urn:datacontract:team:underwriting:api
+info:
+  title: Underwriting Life Insurance api
+  version: 0.0.1
+  owner: underwriting
+  contact:
+    name: u2fV7w0UsRoQeEPEKW2EDDm
+    email: mail@example.com
+models:
+  underwriting_life_insurance_api:
+    type: table
+    fields:
+      health risk assessment:
+        type: string
+      creditworthiness:
+        type: string
+      exclusive third-party data:
+        type: string
+      public risk data:
+        type: string
+      public mortality models:
+        type: string

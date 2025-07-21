@@ -1,0 +1,22 @@
+dataProductSpecification: 0.0.1
+id: ce2e4af2-3c83-4692-9329-87e18ab354d8
+info:
+  title: Customers
+  owner: shop-operations
+  archetype: source-aligned
+inputPorts: []
+outputPorts:
+- id: api
+  name: api
+  type: api
+  autoApprove: false
+  containsPii: false
+  dataContractId: urn:datacontract:team:shop-operations:api
+  tags: []
+  links: {}
+  custom: {}
+  assets: []
+tags: []
+links: {}
+custom: {}
+assets: []

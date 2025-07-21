@@ -1,0 +1,22 @@
+dataProductSpecification: 0.0.1
+id: 40044adb-68b9-4e03-9f51-cccf8f060e8b
+info:
+  title: Benefit
+  owner: claims--benefit
+  status: active
+inputPorts: []
+outputPorts:
+- id: api
+  name: api
+  type: api
+  autoApprove: false
+  containsPii: false
+  dataContractId: urn:datacontract:team:claims--benefit:api
+  tags: []
+  links: {}
+  custom: {}
+  assets: []
+tags: []
+links: {}
+custom: {}
+assets: []

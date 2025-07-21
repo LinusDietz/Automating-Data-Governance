@@ -1,0 +1,22 @@
+dataProductSpecification: 0.0.1
+id: da52bc11-f7f2-4163-aad7-333db6f3656a
+info:
+  title: Fulfilment
+  owner: logistics
+  archetype: source-aligned
+inputPorts: []
+outputPorts:
+- id: api
+  name: api
+  type: api
+  autoApprove: false
+  containsPii: false
+  dataContractId: urn:datacontract:team:logistics:api-1
+  tags: []
+  links: {}
+  custom: {}
+  assets: []
+tags: []
+links: {}
+custom: {}
+assets: []

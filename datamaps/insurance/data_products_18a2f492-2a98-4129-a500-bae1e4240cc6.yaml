@@ -1,0 +1,27 @@
+dataProductSpecification: 0.0.1
+id: 18a2f492-2a98-4129-a500-bae1e4240cc6
+info:
+  title: Life Insurance Contracts
+  description: "Life insurance contracts provide financial protection to beneficiaries\
+    \ upon the policyholder's death. In exchange for regular premiums, the insurer\
+    \ pays a lump sum or annuity to the beneficiaries, helping them cover expenses\
+    \ and maintain financial stability after the policyholder\u2019s passing."
+  owner: contracts
+  status: active
+inputPorts: []
+outputPorts:
+- id: api
+  name: Life Insurance Contracts
+  type: api
+  status: active
+  autoApprove: false
+  containsPii: true
+  dataContractId: urn:datacontract:team:contracts:api
+  tags: []
+  links: {}
+  custom: {}
+  assets: []
+tags: []
+links: {}
+custom: {}
+assets: []

@@ -1,0 +1,29 @@
+dataContractSpecification: 1.1.0
+id: urn:datacontract:team:shop-operations:api-2
+info:
+  title: Order Lines api
+  version: 0.0.1
+  owner: shop-operations
+  contact:
+    name: u2gfJmIrx9VjIiUjzbyXO9R
+    email: mail@example.com
+models:
+  order_lines:
+    type: table
+    fields:
+      order:
+        type: string
+        description: order id
+      product:
+        type: string
+        description: product id
+      number of pieces:
+        type: int
+      price:
+        type: decimal
+      campaign:
+        type: string
+        description: marketing campaign id
+      return:
+        type: boolean
+        description: returned?

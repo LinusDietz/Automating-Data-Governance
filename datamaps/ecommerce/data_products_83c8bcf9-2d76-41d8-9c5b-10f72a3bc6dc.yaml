@@ -1,0 +1,22 @@
+dataProductSpecification: 0.0.1
+id: 83c8bcf9-2d76-41d8-9c5b-10f72a3bc6dc
+info:
+  title: Campaigns
+  owner: marketing
+  archetype: source-aligned
+inputPorts: []
+outputPorts:
+- id: api
+  name: api
+  type: api
+  autoApprove: false
+  containsPii: false
+  dataContractId: urn:datacontract:team:marketing:api
+  tags: []
+  links: {}
+  custom: {}
+  assets: []
+tags: []
+links: {}
+custom: {}
+assets: []

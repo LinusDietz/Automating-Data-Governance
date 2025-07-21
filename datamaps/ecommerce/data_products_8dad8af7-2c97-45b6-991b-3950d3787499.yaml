@@ -1,0 +1,22 @@
+dataProductSpecification: 0.0.1
+id: 8dad8af7-2c97-45b6-991b-3950d3787499
+info:
+  title: Order Lines
+  owner: shop-operations
+  archetype: source-aligned
+inputPorts: []
+outputPorts:
+- id: api
+  name: api
+  type: api
+  autoApprove: false
+  containsPii: false
+  dataContractId: urn:datacontract:team:shop-operations:api-2
+  tags: []
+  links: {}
+  custom: {}
+  assets: []
+tags: []
+links: {}
+custom: {}
+assets: []

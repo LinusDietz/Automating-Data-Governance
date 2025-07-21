@@ -1,0 +1,17 @@
+id: platform-team
+name: Platform Team
+type: Platform Team
+description: We are responsible for the Data platform where Data Products are being
+  deployed to.
+members: []
+tags:
+- demo
+links:
+  slack: https://datacontract.slack.com/channels/platform-team
+  homepage: https://confluence.example.com/display/platform-team/Home
+  GitLab: https://gitlab.example.com/platform-team
+  teams: https://teams.microsoft.com/l/channel/19%3A55d9a349c5f54f1daba462f995007885%40thread.tacv2/platform-team
+custom:
+  slack-channel: '#platform-team'
+  email: platform-team@example.com
+  teams-channel: '#platform-team'

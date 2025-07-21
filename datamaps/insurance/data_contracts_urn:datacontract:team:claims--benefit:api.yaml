@@ -1,0 +1,25 @@
+dataContractSpecification: 1.1.0
+id: urn:datacontract:team:claims--benefit:api
+info:
+  title: Benefit api
+  version: 0.0.1
+  owner: claims--benefit
+  contact:
+    name: u2fV7w0UsRoQeEPEKW2EDDm
+    email: mail@example.com
+models:
+  benefit:
+    type: table
+    fields:
+      beneficiaries:
+        type: string
+        pii: true
+      date:
+        type: date
+      reason:
+        type: string
+        description: death, retirement, disability
+        pii: true
+      payment information:
+        description: IBAN, amount, type
+        pii: true

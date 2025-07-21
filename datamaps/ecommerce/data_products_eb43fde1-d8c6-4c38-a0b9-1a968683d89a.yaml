@@ -1,0 +1,22 @@
+dataProductSpecification: 0.0.1
+id: eb43fde1-d8c6-4c38-a0b9-1a968683d89a
+info:
+  title: Order
+  owner: shop-operations
+  archetype: source-aligned
+inputPorts: []
+outputPorts:
+- id: api
+  name: api
+  type: api
+  autoApprove: false
+  containsPii: false
+  dataContractId: urn:datacontract:team:shop-operations:api-1
+  tags: []
+  links: {}
+  custom: {}
+  assets: []
+tags: []
+links: {}
+custom: {}
+assets: []

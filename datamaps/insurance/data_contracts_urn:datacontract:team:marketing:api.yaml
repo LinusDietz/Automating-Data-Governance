@@ -1,0 +1,23 @@
+dataContractSpecification: 1.1.0
+id: urn:datacontract:team:marketing:api
+info:
+  title: Marketing Campaigns api
+  version: 0.0.1
+  owner: marketing
+  contact:
+    name: u2fV7w0UsRoQeEPEKW2EDDm
+    email: mail@example.com
+models:
+  marketing_campaigns_api:
+    type: table
+    fields:
+      start date:
+        type: date
+      end date:
+        type: date
+      target customer profile:
+        type: string
+      campain information:
+        type: string
+      performance:
+        type: string

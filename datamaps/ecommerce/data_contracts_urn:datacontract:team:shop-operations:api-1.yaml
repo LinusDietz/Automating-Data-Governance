@@ -1,0 +1,23 @@
+dataContractSpecification: 1.1.0
+id: urn:datacontract:team:shop-operations:api-1
+info:
+  title: Order api
+  version: 0.0.1
+  owner: shop-operations
+  contact:
+    name: u2gfJmIrx9VjIiUjzbyXO9R
+    email: mail@example.com
+models:
+  order:
+    type: table
+    fields:
+      customer:
+        type: string
+        description: customer id
+      date:
+        type: date
+      shipping address:
+        type: string
+      shipping time:
+        type: string
+        description: estimated, actual

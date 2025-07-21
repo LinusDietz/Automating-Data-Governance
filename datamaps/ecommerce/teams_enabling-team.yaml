@@ -1,0 +1,17 @@
+id: enabling-team
+name: Enabling Team
+type: Enabling Team
+description: We are responsible for enabling the teams to create and manage data products.
+  We provide training, support, and tools.
+members: []
+tags:
+- demo
+links:
+  slack: https://datacontract.slack.com/channels/enabling-team
+  homepage: https://confluence.example.com/display/enabling-team/Home
+  GitLab: https://gitlab.example.com/enabling-team
+  teams: https://teams.microsoft.com/l/channel/19%3A55d9a349c5f54f1daba462f995007885%40thread.tacv2/enabling-team
+custom:
+  slack-channel: '#enabling-team'
+  email: enabling-team@example.com
+  teams-channel: '#enabling-team'

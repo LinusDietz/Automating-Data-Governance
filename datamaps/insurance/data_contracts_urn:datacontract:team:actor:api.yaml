@@ -1,0 +1,29 @@
+dataContractSpecification: 1.1.0
+id: urn:datacontract:team:actor:api
+info:
+  title: Actors API
+  version: 0.0.1
+  status: active
+  owner: actor
+  contact:
+    email: mail@example.com
+models:
+  actor:
+    type: table
+    fields:
+      online account:
+        type: string
+        description: id, activity
+      payment methods:
+        type: string
+      payment information:
+        type: string
+      contact info:
+        type: string
+        pii: true
+      link to contracts:
+        type: string
+        description: current, past
+      data usage consent:
+        type: string
+        description: marketing, data sharing

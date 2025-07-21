@@ -1,0 +1,35 @@
+dataContractSpecification: 1.1.0
+id: urn:datacontract:team:contracts:api
+info:
+  title: Life Insurance Contracts API
+  version: 0.0.1
+  status: active
+  owner: contracts
+  contact:
+    email: mail@example.com
+models:
+  life_insurance_contracts:
+    type: table
+    fields:
+      policyholder name:
+        type: string
+        pii: true
+      policyholder base data:
+        type: string
+        pii: true
+        description: age, weight, smoking
+      prior medical record:
+        type: string
+        pii: true
+      sum insured:
+        type: string
+      premiums:
+        type: string
+      agent:
+        type: string
+      agent commission:
+        type: int
+        classification: trade secret
+      beneficiaries:
+        type: string
+        pii: true
