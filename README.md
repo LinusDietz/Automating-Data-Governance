@@ -1,6 +1,6 @@
 # Supplementary Material for "Automating Data Governance with Generative AI"
 
-Accepted at AAAI/ACM AEIS 2025. In Press, [preprint](https://github.com/LinusDietz/Automating-Data-Governance/blob/main/Automating-Data-Governance.pdf) available.
+Accepted at AAAI/ACM AIES 2025. In Press, [preprint](https://kclpure.kcl.ac.uk/portal/files/347300134/AIES-main.pdf) available.
 
 ```
 @InProceedings{Dietz2025Automating,
