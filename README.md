@@ -1,6 +1,6 @@
 # Supplementary Material for "Automating Data Governance with Generative AI"
 
-Accepted at AAAI/ACM AIES 2025](https://doi.org/10.1609/aies.v8i1.36587). [PDF Download](https://linusdietz.com/assets/papers/AIES25AutomatingDataGovernanceWithGenerative.pdf)
+Accepted at [AAAI/ACM Conference on AI, Ethics, and Society 2025](https://doi.org/10.1609/aies.v8i1.36587). [PDF Download](https://linusdietz.com/assets/papers/AIES25AutomatingDataGovernanceWithGenerative.pdf)
 
 ```
 @Article{Dietz2025Automating,
