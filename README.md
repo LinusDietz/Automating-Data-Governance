@@ -1,15 +1,21 @@
 # Supplementary Material for "Automating Data Governance with Generative AI"
 
-Accepted at AAAI/ACM AIES 2025. In Press, [preprint](https://kclpure.kcl.ac.uk/portal/files/347300396/AIES-main.pdf) available.
+Accepted at AAAI/ACM AIES 2025](https://doi.org/10.1609/aies.v8i1.36587). [PDF Download](https://linusdietz.com/assets/papers/AIES25AutomatingDataGovernanceWithGenerative.pdf)
 
 ```
-@InProceedings{Dietz2025Automating,
-  author    = {Linus W. Dietz and Arif Wider and Simon Harrer},
-  booktitle = {8th {AAAI/ACM} Conference on AI, Ethics, and Society},
-  title     = {Automating Data Governance with Generative {AI}},
-  year      = {2025},
-  publisher = {{AAAI/ACM}},
-  series    = {AIES'25},
+@Article{Dietz2025Automating,
+ author = {Linus W. Dietz and Arif Wider and Simon Harrer},
+ journal = {AAAI/ACM Conference on AI, Ethics, and Society},
+ title = {Automating Data Governance with Generative {AI}},
+ year = {2025},
+ issn = {3065-8365},
+ month = oct,
+ number = {1},
+ pages = {760--771},
+ volume = {8},
+ doi = {10.1609/aies.v8i1.36587},
+ publisher = {{AAAI/ACM}},
+ series = {AIES'25},
 }
 ```
 
